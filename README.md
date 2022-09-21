@@ -2,7 +2,7 @@
 
 ## Dataset
 
-* In this project, I will be investigating the No Show appointments dataset to investigate the factor responsible for the attendance rate of patients. This data was collected from data of over 110k patients who had medical appointments in Brazil. The dataset contains their medical history, appointment schedule, and attendance status for the appointment. The major question I will focus my investigation on is: Which factor(s) amongst the attributes in the dataset makes the patients miss their medical appointment?
+* In this project, I investigated the No Show appointments dataset to investigate the factor responsible for the attendance rate of patients. This data was collected from data of over 110k patients who had medical appointments in Brazil. The dataset contains their medical history, appointment schedule, and attendance status for the appointment. The major question I will focus my investigation on is: Which factor(s) amongst the attributes in the dataset makes the patients miss their medical appointment?
 
 * The dataset has 110,527 rows and 14 columns. Dataset can be accessed [here](https://www.kaggle.com/joniarroba/noshowappointments)
 
